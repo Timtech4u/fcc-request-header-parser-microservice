@@ -1,0 +1,32 @@
+{
+  "name": "fcc-request-header-parser-microservice",
+  "version": "1.0.0",
+  "description": "Free Code Camp Request Header Parser Microservice",
+  "main": "server.js",
+  "scripts": {
+    "test": "mocha test"
+  },
+  "keywords": [
+    "free",
+    "code",
+    "camp",
+    "request",
+    "header",
+    "parser",
+    "microservice",
+    "express.js",
+    "node.js"
+  ],
+  "author": "Jennifer Bland",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.15.0",
+    "express": "^4.13.4"
+  },
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "expect": "^1.16.0",
+    "mocha": "^2.4.5",
+    "supertest": "^1.2.0"
+  }
+}
